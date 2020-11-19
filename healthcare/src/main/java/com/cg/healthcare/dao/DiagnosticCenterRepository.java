@@ -7,4 +7,7 @@ public interface DiagnosticCenterRepository{
 	public DiagnosticCenter addDiagnosticCenter(DiagnosticCenter center);
 	public DiagnosticCenter removeDiagnosticCenter(int centerid);
 	public DiagnosticCenter updateDiagnosticCenter(DiagnosticCenter center);
+	//fewsdfs
+	//dasdasdfwef
+	//fserwfwfe
 }
